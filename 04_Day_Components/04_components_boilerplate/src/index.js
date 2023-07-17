@@ -40,7 +40,7 @@ const Header = () => (
       <h1>Welcome to 30 Days Of React</h1>
       <h2>Getting Started React</h2>
       <h3>JavaScript Library</h3>
-      <p>Asabeneh Yetayeh</p>
+      <p>Biruk Tafese</p>
       <small>Oct 3, 2020</small>
     </div>
   </header>
